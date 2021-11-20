@@ -1,0 +1,13 @@
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\bin\Debug\20ingrid3c1.exe.config
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\bin\Debug\20ingrid3c1.exe
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\bin\Debug\20ingrid3c1.pdb
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\bin\Debug\MySqlConnector.dll
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\bin\Debug\System.Buffers.dll
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\20ingrid3c1.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\_20ingrid3c1.Form1.resources
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\_20ingrid3c1.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\_20ingrid3c1.UI.Form2.resources
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\20ingrid3c1.csproj.GenerateResource.cache
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\20ingrid3c1.csproj.CopyComplete
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\20ingrid3c1.exe
+H:\Visual Studio 2019\Projects\20ingrid3c1\20ingrid3c1\obj\Debug\20ingrid3c1.pdb
